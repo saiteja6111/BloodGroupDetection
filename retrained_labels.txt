@@ -1,0 +1,7 @@
+a nageative
+a positive
+ab negative
+ab positive
+b negative
+b positive
+o positive
